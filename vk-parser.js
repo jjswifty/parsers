@@ -1,8 +1,3 @@
-const musicList = ["Wex & Kiddo Laser", "Ya Soshla S Uma", "", "Rich Brian", "Keith Ape", "XXXTENTACION", "Gospel", "", "HOME ANIMAL", "Стакан за стаканом", "", "FOVLA", "MONSTER KILL", "", "BER$$ERKER", "Белая ночь [#NDNF_music]", "", "freddie dredd", "i gotta", "", "Shinigami  Tenshi", "Underground City", "", "bbno$", "lentra", "quarantine freestyle", "", "bbno$, So Loki", "fragile", "", "City Morgue", "ZillaKami", "SosMula", "THE BALLOONS", "", "RHODAMINE", "Tennessee (feat. Sixdez)", "", "ЧЁРНЫЕ ГЛАЗА", "Чёрные глаза phonk (boosted by Ibr@)", "", "Rich Brian", "Offset", "Attention", "", "BLOCKBUDDHA", "robbery", "prod. SMOKAMANE", "psych0", "Paris", "", "Young Thug", "Gunna", "Surf (feat. Gunna)", "", "MAKISHIMA RECORDS", "YOU BLYADINA", "", "makishima records", "дед мороз и лето", "", "MAKISHIMA RECORDS", "Phonk edition", "", "XXXTENTACION", "Trippie Redd", "Fuck Love", "", "Stephane Deschezeaux", "Do U Wanna", "", "NERONUS", "PHONK DEALER", "", "Yeah Yeah Yeahs", "Dance till you're dead", "", "Yung Gravy", "bbno$", "Justin Bieber Wrist", "", "Makishima", "bara bara bere bere(phonk edition)", "", "GONE.Fludd", "ВКУС ЯДА (feat. IROH)", "prod. by Toreno", "BEXEY", "JACKBOY", "LONDON TO 1800", "", "bbno$, So Loki", "okay", ""]
-
-
-//let list = [...musicList];
-
 function parser(element) {
     const t0 = performance.now()
     let list = [];
